@@ -1,2 +1,2 @@
 # marchTraining
-This is a test.
+This is the other test.
